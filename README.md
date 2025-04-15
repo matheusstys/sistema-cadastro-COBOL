@@ -13,7 +13,7 @@ Este é um projeto simples desenvolvido em COBOL para cadastro de usuários. O p
 
 ### Pré-requisitos
 
-- **Compilador COBOL**: Você precisa de um compilador COBOL como o [GnuCOBOL](https://gnucobol.sourceforge.io/) ou OPENCOBOL.
+- **Compilador COBOL**: Você precisa de um compilador COBOL como o [GnuCOBOL](https://gnucobol.sourceforge.io/) ou OpenCobolIDE.
 
 ### Passos para execução
 
